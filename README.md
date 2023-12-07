@@ -16,7 +16,7 @@ Greetings! I'm a dedicated Software Engineering student with a passion for craft
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />  
 
-
+#
 ## 🕉️STATES
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souhailBektachi&show_icons=true&theme=cobalt)
 #
