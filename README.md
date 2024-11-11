@@ -19,7 +19,7 @@ Greetings! I'm a dedicated Software Engineering student with a passion for craft
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" width="30px" style="padding-left:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img src="colorChanger.svg">
+<img src="colorChanger.svg" width="0px" height="0px">
 
           
           
