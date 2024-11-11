@@ -2,20 +2,30 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        #contribution-graph-legend-level-0 {
-          background-color: #f2f2f2;
+        .ContributionCalendar-day[data-level="0"] {
+          fill: var(--color-calendar-graph-day-bg);
+          background-color: var(--color-calendar-graph-day-bg);
+          outline: 1px solid var(--color-calendar-graph-day-border);
         }
-        #contribution-graph-legend-level-1 {
-          background-color: #c6e48b;
+        .ContributionCalendar-day[data-level="1"] {
+          fill: var(--color-calendar-graph-day-L1-bg);
+          background-color: var(--color-calendar-graph-day-L1-bg);
+          outline: 1px solid var(--color-calendar-graph-day-L1-border);
         }
-        #contribution-graph-legend-level-2 {
-          background-color: #7bc96f;
+        .ContributionCalendar-day[data-level="2"] {
+          fill: var(--color-calendar-graph-day-L2-bg);
+          background-color: var(--color-calendar-graph-day-L2-bg);
+          outline: 1px solid var(--color-calendar-graph-day-L2-border);
         }
-        #contribution-graph-legend-level-3 {
-          background-color: #2d7d3c;
+        .ContributionCalendar-day[data-level="3"] {
+          fill: var(--color-calendar-graph-day-L3-bg);
+          background-color: var(--color-calendar-graph-day-L3-bg);
+          outline: 1px solid var(--color-calendar-graph-day-L3-border);
         }
-        #contribution-graph-legend-level-4 {
-          background-color: #165a1e;
+        .ContributionCalendar-day[data-level="4"] {
+          fill: var(--color-calendar-graph-day-L4-bg);
+          background-color: var(--color-calendar-graph-day-L4-bg);
+          outline: 1px solid var(--color-calendar-graph-day-L4-border);
         }
       </style>
       <span></span>
